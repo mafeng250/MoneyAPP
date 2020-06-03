@@ -13,4 +13,7 @@
     <string name="birthday">生日</string>
     <string name="birthday_title">请选择生日</string>
     <string name="gender">性别</string>
+    <string name="ys_password">原始密码</string>
+    <string name="new_password">新密码</string>
+    <string name="qr_password">确认密码</string>
 </resources>
