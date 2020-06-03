@@ -8,6 +8,6 @@ public class InComeDetailActivity extends APPCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_in_come_detail);
-    }
+                setContentView(R.layout.activity_in_come_detail);
+                }
 }
